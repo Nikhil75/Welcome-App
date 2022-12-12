@@ -1,0 +1,26 @@
+* {
+  font-family: 'Bree Serif';
+}
+body {
+  margin: 0px;
+}
+.welcome-container {
+  background-color: #1e293b;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.invite {
+  font-size: 100px;
+  color: #f0bb03;
+}
+.Thank {
+  color: white;
+  font-size: 60px;
+}
+.subscribed {
+  color: white;
+}
